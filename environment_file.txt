@@ -1,0 +1,42 @@
+
+#--------------------------------------------------------------------
+# IMPORTANT API KEYS AND ENV KEYS WILL BE HERE
+#
+# if you want to access a specific credential please 
+# contact Eco
+#--------------------------------------------------------------------
+
+
+#--------------------------------------------------------------------
+# SMS API CREDENTIALS
+#--------------------------------------------------------------------
+
+SMS_API_KEY = "19b3991f9870979b63179c853fec8dee"
+SMS_API_SEC = "9c27fbc3d9c7fd8b61b08337864cc2d8"
+SMS_SENDER_NAME = "TATERS"
+
+
+#--------------------------------------------------------------------
+# PUSHERR ENV
+#--------------------------------------------------------------------
+
+PUSHER_APP_ID = "1491284"
+PUSHER_KEY = "37f116038ceac90a3605"
+PUSHER_SECRET = "623b281766bcfc233c59"
+PUSHER_CLUSTER = "ap1"
+
+#--------------------------------------------------------------------
+# DATABASE ENV
+#--------------------------------------------------------------------
+
+DATABASE_NAME = staging_newteishop
+DATABASE_USERNAME = tatersgr
+DATABASE_PASSWORD = T31@dm1n
+
+BSC_DATABASE_NAME = staging_balance_score_card
+BSC_DATABASE_USERNAME = tatersgr
+BSC_DATABASE_PASSWORD = T31@dm1n
+
+FACEBOOK_APP_ID = 430315625779319
+FACEBOOK_APP_SECRET = d8471684b14ce9ae6aa8b68473622db1
+

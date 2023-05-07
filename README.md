@@ -7,10 +7,10 @@ The documentation typically includes technical specifications, API reference gui
 Good documentation is essential for ensuring that users can understand and use the system effectively. It can also help reduce the need for technical support and improve the overall user experience. Taters e-commerce system documentation is designed to be clear, concise, and up-to-date, so that users can quickly and easily find the information they need to get their work done.
 ## Documantation
 
- - [Get Started](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Code Structure](https://github.com/matiassingers/awesome-readme)
- - [Database Structure](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [Common Issues/Request with Solutions](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Get Started](https://github.com/Taters-Enterprises-Inc/Documantation/wiki/Get-Started)
+ - [Code Structure](https://github.com/Taters-Enterprises-Inc/Documantation/wiki/Code-Structure)
+ - [Database Structure](https://github.com/Taters-Enterprises-Inc/Documantation/wiki/Database-Structure)
+ - [Common Issues/Request with Solutions](https://github.com/Taters-Enterprises-Inc/Documantation/wiki/Common-Issues-Or-Requests-With-Solutions)
 
 ## Authors
 
